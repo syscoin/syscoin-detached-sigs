@@ -8,6 +8,10 @@
 		<data>
 		yAlKykrwAM+WD7vrY486JNvLcsc=
 		</data>
+		<key>Resources/bufferutil.node</key>
+		<data>
+		8D3Vm9ZV60zmckDm5ew/JVvAMag=
+		</data>
 		<key>Resources/empty.lproj</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Resources/qt_da.qm</key>
 		<data>
-		IPCGjLnW67OW95eV6N6lX8Xg9r8=
+		69nezwrKGy8U1ktgd7PxK7ZP8mY=
 		</data>
 		<key>Resources/qt_de.qm</key>
 		<data>
@@ -26,11 +30,11 @@
 		</data>
 		<key>Resources/qt_es.qm</key>
 		<data>
-		1prruI6h8lJgWKLZMutiCD117qw=
+		bbpLxzaf5AZX8aJ4KkORKaERBaM=
 		</data>
 		<key>Resources/qt_hu.qm</key>
 		<data>
-		CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+		tjY4D5KRwRHLjYhWirNF1Tpi23M=
 		</data>
 		<key>Resources/qt_ru.qm</key>
 		<data>
@@ -48,9 +52,29 @@
 		<data>
 		WgI7XzEbz4TvzQ2//Tebo/KPINs=
 		</data>
+		<key>Resources/scrypt.node</key>
+		<data>
+		CAOObUI8DVuTlPEzVUAx/eIrhm8=
+		</data>
+		<key>Resources/sgeth.node</key>
+		<data>
+		8tlqdtCppfB1KzCoDb6mkfjVrys=
+		</data>
+		<key>Resources/sha3.node</key>
+		<data>
+		gJ5c5wB1T4KNkUCxg+Gk9GOA9OU=
+		</data>
+		<key>Resources/srelayer.node</key>
+		<data>
+		7qKAxVxM0R151lwEgg9P+E91uDM=
+		</data>
 		<key>Resources/syscoin.icns</key>
 		<data>
-		7pIKXA0tQDHf3q2qpq/FTk9+K/Q=
+		haOr7h4nJU9CSI4fmArP6YF+hZY=
+		</data>
+		<key>Resources/validation.node</key>
+		<data>
+		fcV+I9QKRJFzsp1l9tpQ7l9JbGw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -64,6 +88,17 @@
 			<key>hash2</key>
 			<data>
 			/q5jbCYKvYCS/MQV3YsUpLe68IFTkZh8slPjGvMr9F0=
+			</data>
+		</dict>
+		<key>Resources/bufferutil.node</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8D3Vm9ZV60zmckDm5ew/JVvAMag=
+			</data>
+			<key>hash2</key>
+			<data>
+			VKlKuZfbzkiOL/rBzxUiWB9tDbzhRYkJr7rKyqCx5No=
 			</data>
 		</dict>
 		<key>Resources/empty.lproj</key>
@@ -92,11 +127,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IPCGjLnW67OW95eV6N6lX8Xg9r8=
+			69nezwrKGy8U1ktgd7PxK7ZP8mY=
 			</data>
 			<key>hash2</key>
 			<data>
-			sSsVdGT/lHYfgP5IFGwZ2Tj9IStZFb1d774japjtcy8=
+			UeNjW+b5NPNbyF13hCRcxBFM9YU8nfT9vZvE68YFPvE=
 			</data>
 		</dict>
 		<key>Resources/qt_de.qm</key>
@@ -114,22 +149,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1prruI6h8lJgWKLZMutiCD117qw=
+			bbpLxzaf5AZX8aJ4KkORKaERBaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			C47ncZwKmGu9nEtZ3xgCZuXctdOGSXD9kzc8UhsZVPE=
+			LkzCOHSfPJnJ7mgqX8FHgsmnb0Prx3zIaq+dDIWDxwE=
 			</data>
 		</dict>
 		<key>Resources/qt_hu.qm</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+			tjY4D5KRwRHLjYhWirNF1Tpi23M=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lbc5U6uM11fsofnSAQo2RSPbbJsrtfORxHJSofOxeNY=
+			jn3iyLzhg37i+C8I8adJ+aWIYzge5nTi1Ss5/sz9QmI=
 			</data>
 		</dict>
 		<key>Resources/qt_ru.qm</key>
@@ -176,15 +211,70 @@
 			H0p0XurqqgtHFQ0xxyCjminMHviElBGcYSXcYrMovnY=
 			</data>
 		</dict>
+		<key>Resources/scrypt.node</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CAOObUI8DVuTlPEzVUAx/eIrhm8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rv4CRE7uL6r+CMrSEN08+F+mWoi3gb9Gpamoy8PAyss=
+			</data>
+		</dict>
+		<key>Resources/sgeth.node</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8tlqdtCppfB1KzCoDb6mkfjVrys=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z6PXZkx7My0bSHmLteNS81Qq6ADqBQya18aUEL28XB0=
+			</data>
+		</dict>
+		<key>Resources/sha3.node</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gJ5c5wB1T4KNkUCxg+Gk9GOA9OU=
+			</data>
+			<key>hash2</key>
+			<data>
+			sqt3OANN2clVPlqltZhAT54UNMfvsHpzhUoDbyb8XSk=
+			</data>
+		</dict>
+		<key>Resources/srelayer.node</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7qKAxVxM0R151lwEgg9P+E91uDM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lvDPv6poa7muvmzxATTlO+TGO/AHzpIldHH4+ExQiwE=
+			</data>
+		</dict>
 		<key>Resources/syscoin.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7pIKXA0tQDHf3q2qpq/FTk9+K/Q=
+			haOr7h4nJU9CSI4fmArP6YF+hZY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xjRcVltbREC+d0qr/Jlre2yJSCIxIg2LPta4BB+ZsNs=
+			U3+1yN4cUIh546yZvVpjY3RBiBxGOHHC0NGXLtNh+TE=
+			</data>
+		</dict>
+		<key>Resources/validation.node</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fcV+I9QKRJFzsp1l9tpQ7l9JbGw=
+			</data>
+			<key>hash2</key>
+			<data>
+			6kRQxfrplGdu/YJAsb6BAZ6VtVy8sbA9rAx+fQhGWYI=
 			</data>
 		</dict>
 	</dict>
