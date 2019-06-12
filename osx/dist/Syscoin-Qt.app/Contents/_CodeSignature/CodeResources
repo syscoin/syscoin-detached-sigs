@@ -56,21 +56,21 @@
 		<data>
 		CAOObUI8DVuTlPEzVUAx/eIrhm8=
 		</data>
-		<key>Resources/sgeth.node</key>
-		<data>
-		8tlqdtCppfB1KzCoDb6mkfjVrys=
-		</data>
 		<key>Resources/sha3.node</key>
 		<data>
 		gJ5c5wB1T4KNkUCxg+Gk9GOA9OU=
 		</data>
-		<key>Resources/srelayer.node</key>
-		<data>
-		7qKAxVxM0R151lwEgg9P+E91uDM=
-		</data>
 		<key>Resources/syscoin.icns</key>
 		<data>
 		haOr7h4nJU9CSI4fmArP6YF+hZY=
+		</data>
+		<key>Resources/sysgeth.nod</key>
+		<data>
+		8tlqdtCppfB1KzCoDb6mkfjVrys=
+		</data>
+		<key>Resources/sysrelayer.nod</key>
+		<data>
+		7qKAxVxM0R151lwEgg9P+E91uDM=
 		</data>
 		<key>Resources/validation.node</key>
 		<data>
@@ -222,17 +222,6 @@
 			Rv4CRE7uL6r+CMrSEN08+F+mWoi3gb9Gpamoy8PAyss=
 			</data>
 		</dict>
-		<key>Resources/sgeth.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8tlqdtCppfB1KzCoDb6mkfjVrys=
-			</data>
-			<key>hash2</key>
-			<data>
-			Z6PXZkx7My0bSHmLteNS81Qq6ADqBQya18aUEL28XB0=
-			</data>
-		</dict>
 		<key>Resources/sha3.node</key>
 		<dict>
 			<key>hash</key>
@@ -244,17 +233,6 @@
 			sqt3OANN2clVPlqltZhAT54UNMfvsHpzhUoDbyb8XSk=
 			</data>
 		</dict>
-		<key>Resources/srelayer.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7qKAxVxM0R151lwEgg9P+E91uDM=
-			</data>
-			<key>hash2</key>
-			<data>
-			lvDPv6poa7muvmzxATTlO+TGO/AHzpIldHH4+ExQiwE=
-			</data>
-		</dict>
 		<key>Resources/syscoin.icns</key>
 		<dict>
 			<key>hash</key>
@@ -264,6 +242,28 @@
 			<key>hash2</key>
 			<data>
 			U3+1yN4cUIh546yZvVpjY3RBiBxGOHHC0NGXLtNh+TE=
+			</data>
+		</dict>
+		<key>Resources/sysgeth.nod</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8tlqdtCppfB1KzCoDb6mkfjVrys=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z6PXZkx7My0bSHmLteNS81Qq6ADqBQya18aUEL28XB0=
+			</data>
+		</dict>
+		<key>Resources/sysrelayer.nod</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7qKAxVxM0R151lwEgg9P+E91uDM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lvDPv6poa7muvmzxATTlO+TGO/AHzpIldHH4+ExQiwE=
 			</data>
 		</dict>
 		<key>Resources/validation.node</key>
