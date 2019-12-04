@@ -8,10 +8,6 @@
 		<data>
 		yAlKykrwAM+WD7vrY486JNvLcsc=
 		</data>
-		<key>Resources/bufferutil.node</key>
-		<data>
-		8D3Vm9ZV60zmckDm5ew/JVvAMag=
-		</data>
 		<key>Resources/empty.lproj</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
@@ -52,61 +48,30 @@
 		<data>
 		WgI7XzEbz4TvzQ2//Tebo/KPINs=
 		</data>
-		<key>Resources/scrypt.node</key>
-		<data>
-		CAOObUI8DVuTlPEzVUAx/eIrhm8=
-		</data>
-		<key>Resources/sha3.node</key>
-		<data>
-		gJ5c5wB1T4KNkUCxg+Gk9GOA9OU=
-		</data>
 		<key>Resources/syscoin.icns</key>
 		<data>
 		haOr7h4nJU9CSI4fmArP6YF+hZY=
 		</data>
 		<key>Resources/sysgeth.nod</key>
 		<data>
-		8tlqdtCppfB1KzCoDb6mkfjVrys=
+		T6+inof5PqOHY3dv0jkx8btdS5s=
 		</data>
 		<key>Resources/sysrelayer.nod</key>
 		<data>
-		mEiiwrvxCjH091CUI8oZr+1jFBE=
-		</data>
-		<key>Resources/validation.node</key>
-		<data>
-		fcV+I9QKRJFzsp1l9tpQ7l9JbGw=
+		tHfa17BrBEWy1VRDTqEhgaQAHfA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Resources/Base.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yAlKykrwAM+WD7vrY486JNvLcsc=
-			</data>
 			<key>hash2</key>
 			<data>
 			/q5jbCYKvYCS/MQV3YsUpLe68IFTkZh8slPjGvMr9F0=
 			</data>
 		</dict>
-		<key>Resources/bufferutil.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8D3Vm9ZV60zmckDm5ew/JVvAMag=
-			</data>
-			<key>hash2</key>
-			<data>
-			VKlKuZfbzkiOL/rBzxUiWB9tDbzhRYkJr7rKyqCx5No=
-			</data>
-		</dict>
 		<key>Resources/empty.lproj</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -114,10 +79,6 @@
 		</dict>
 		<key>Resources/qt.conf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MzKfr4zEj2t4UpjgE81ZSqT1TV4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Na7agYO48mkxYzknVX3LE5KaZJARYVx+U2VCaNA9peE=
@@ -125,10 +86,6 @@
 		</dict>
 		<key>Resources/qt_da.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			69nezwrKGy8U1ktgd7PxK7ZP8mY=
-			</data>
 			<key>hash2</key>
 			<data>
 			UeNjW+b5NPNbyF13hCRcxBFM9YU8nfT9vZvE68YFPvE=
@@ -136,10 +93,6 @@
 		</dict>
 		<key>Resources/qt_de.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KBDc3X5Wv0mK48HsXOiyODjDNBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			VbvVwbKlai5s6S07WbRgwwxWeYzNeATsJ5Clhp8rhQs=
@@ -147,10 +100,6 @@
 		</dict>
 		<key>Resources/qt_es.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bbpLxzaf5AZX8aJ4KkORKaERBaM=
-			</data>
 			<key>hash2</key>
 			<data>
 			LkzCOHSfPJnJ7mgqX8FHgsmnb0Prx3zIaq+dDIWDxwE=
@@ -158,10 +107,6 @@
 		</dict>
 		<key>Resources/qt_hu.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tjY4D5KRwRHLjYhWirNF1Tpi23M=
-			</data>
 			<key>hash2</key>
 			<data>
 			jn3iyLzhg37i+C8I8adJ+aWIYzge5nTi1Ss5/sz9QmI=
@@ -169,10 +114,6 @@
 		</dict>
 		<key>Resources/qt_ru.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			apVOR6CG+CjaFIYn6l+r5GCmNTM=
-			</data>
 			<key>hash2</key>
 			<data>
 			KtrUSjGAqOjVI4EQ4kKLQuM8XSHXGqNqoZTiizgOMMM=
@@ -180,10 +121,6 @@
 		</dict>
 		<key>Resources/qt_uk.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HFP4Vm6dc3bVfiupWY6mvC7uHQA=
-			</data>
 			<key>hash2</key>
 			<data>
 			z8LK2Yu9I+B+jOJ0zxttE/jDLcxYRPBSv5Q6DGslh6Y=
@@ -191,10 +128,6 @@
 		</dict>
 		<key>Resources/qt_zh_CN.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+qTsotH5JX9rhrK5y5PuZ7Is5/g=
-			</data>
 			<key>hash2</key>
 			<data>
 			ERIyJttG01+BB5r7PIjTr+RjZFcHp8Lfsk8oZ/b8FLQ=
@@ -202,43 +135,13 @@
 		</dict>
 		<key>Resources/qt_zh_TW.qm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WgI7XzEbz4TvzQ2//Tebo/KPINs=
-			</data>
 			<key>hash2</key>
 			<data>
 			H0p0XurqqgtHFQ0xxyCjminMHviElBGcYSXcYrMovnY=
 			</data>
 		</dict>
-		<key>Resources/scrypt.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CAOObUI8DVuTlPEzVUAx/eIrhm8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Rv4CRE7uL6r+CMrSEN08+F+mWoi3gb9Gpamoy8PAyss=
-			</data>
-		</dict>
-		<key>Resources/sha3.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gJ5c5wB1T4KNkUCxg+Gk9GOA9OU=
-			</data>
-			<key>hash2</key>
-			<data>
-			sqt3OANN2clVPlqltZhAT54UNMfvsHpzhUoDbyb8XSk=
-			</data>
-		</dict>
 		<key>Resources/syscoin.icns</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			haOr7h4nJU9CSI4fmArP6YF+hZY=
-			</data>
 			<key>hash2</key>
 			<data>
 			U3+1yN4cUIh546yZvVpjY3RBiBxGOHHC0NGXLtNh+TE=
@@ -246,35 +149,16 @@
 		</dict>
 		<key>Resources/sysgeth.nod</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8tlqdtCppfB1KzCoDb6mkfjVrys=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z6PXZkx7My0bSHmLteNS81Qq6ADqBQya18aUEL28XB0=
+			t80KNQvamrHA2nRuNHd1n/rP9sB3MWOn1PaY2BDC7yc=
 			</data>
 		</dict>
 		<key>Resources/sysrelayer.nod</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mEiiwrvxCjH091CUI8oZr+1jFBE=
-			</data>
 			<key>hash2</key>
 			<data>
-			cFPO68N/pinBBKIAqPzBdTdgnXwEwDSF7MQC0qIsLnU=
-			</data>
-		</dict>
-		<key>Resources/validation.node</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fcV+I9QKRJFzsp1l9tpQ7l9JbGw=
-			</data>
-			<key>hash2</key>
-			<data>
-			6kRQxfrplGdu/YJAsb6BAZ6VtVy8sbA9rAx+fQhGWYI=
+			HGi/bvXCi1jNhwCZhG9uO/4A+xD/yKBhEsvtWbluGLs=
 			</data>
 		</dict>
 	</dict>
