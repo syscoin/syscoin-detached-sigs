@@ -156,10 +156,6 @@
 		<data>
 		haOr7h4nJU9CSI4fmArP6YF+hZY=
 		</data>
-		<key>Resources/sysgeth</key>
-		<data>
-		lUTds/hPddQtFx7625ZQs7ididk=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -427,13 +423,6 @@
 			<key>hash2</key>
 			<data>
 			U3+1yN4cUIh546yZvVpjY3RBiBxGOHHC0NGXLtNh+TE=
-			</data>
-		</dict>
-		<key>Resources/sysgeth</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RiN2v83KLgFqosL2EqEcmON0V0jI3wpWYM+7bzOd6KM=
 			</data>
 		</dict>
 	</dict>
